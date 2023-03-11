@@ -35,4 +35,4 @@ git clone https://github.com/candradwicahyo/imdb-movies.git
 
 ![preview](https://github.com/candradwicahyo/imdb-movies/blob/master/image.jpg)
 
-[tekan link ini](https://candradwicahyo.github.io/imdb-movies)
+[tekan link ini](https://candradwicahyo.github.io/imdb-movies) untuk mencoba demo
